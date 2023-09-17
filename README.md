@@ -1,13 +1,6 @@
 # UploadAI
 Aplição para criar Titulo e descrição de Video feito com IA - Feito no Evento NLW AI - RocketSeat
 
-# Upload AI
-
-<p align="center">
-  <img src=".github/preview.jpg" width="100%">
-</p>
-
-
 ## Descrição
 
 O Upload AI é uma aplicação inovadora que utiliza tecnologias de ponta para transformar áudio em texto e, em seguida, gerar automaticamente títulos e descrições de vídeos com base nesse texto. Com a ajuda de algoritmos de inteligência artificial e aprendizado de máquina, o Upload AI simplifica o processo de criação de conteúdo de vídeo, economizando tempo e esforço para criadores de conteúdo.
