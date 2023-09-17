@@ -3,7 +3,10 @@ Aplição para criar Titulo e descrição de Video feito com IA - Feito no Event
 
 # Upload AI
 
-![Preview](./github/preview.jpeg)
+<p align="center">
+  <img src=".github/preview.jpg" width="100%">
+</p>
+
 
 ## Descrição
 
