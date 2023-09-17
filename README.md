@@ -20,4 +20,28 @@ O Upload AI é uma aplicação inovadora que utiliza tecnologias de ponta para t
 - **Inteligência Artificial (AI)**: Além da integração com a OpenAI, o Upload AI emprega técnicas de IA para aprimorar a qualidade das sugestões de títulos e descrições.
 
 
+## Como Usar
+
+1. Clone o repositório
+
+2. Instale todas as depedências
+
+   ```bash  
+    npm  install
+   ```
+
+3. Start aplicação;
+4. 
+  ```bash
+    npm run dev
+  ```
+
+## Back-end 
+
+1- Você precisa criar uma Conta na OPENAI, gerar uma chave token para o back-end e adionar o arquivo .env com a variável OPENAI_KEY=
+
+```
+  OPENAI_KEY="suakey"
+```
+
 
