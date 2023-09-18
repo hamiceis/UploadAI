@@ -2,7 +2,7 @@
 Aplição para criar Titulo e descrição de Video feito com IA - Feito no Evento NLW AI - RocketSeat
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.jpeg" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.jpg" width="100%">
 </p>
 
 ## Descrição
